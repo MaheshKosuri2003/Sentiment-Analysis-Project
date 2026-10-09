@@ -1,5 +1,6 @@
 # Amazon Review Sentiment Analysis
 
+LINK: https://sentiment-analysis-project-2jumwzgzynhkg5und6drrm.streamlit.app/
 ## Project Overview
 
 This project analyzes Amazon product reviews and classifies each review
